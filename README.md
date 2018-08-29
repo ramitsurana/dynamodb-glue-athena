@@ -8,6 +8,8 @@
 
 ## Dynamodb
 
+![gsi-vs-lsi-dynamodb](https://user-images.githubusercontent.com/8342133/44802675-fc109c00-abd9-11e8-9fb1-fe41643a7769.png)
+
 ## Athena
 
 Advantages -
